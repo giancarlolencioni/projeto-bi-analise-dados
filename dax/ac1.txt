@@ -1,0 +1,3 @@
+Preço médio por categoria:
+
+Average Price = AVERAGE('SuperMarket Analysis'[Unit price])
